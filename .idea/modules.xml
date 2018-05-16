@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Highest Card Lab.iml" filepath="$PROJECT_DIR$/.idea/modules/Highest Card Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Highest_Card_Lab.iml" filepath="$PROJECT_DIR$/.idea/modules/Highest_Card_Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Highest_Card_Lab_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Highest_Card_Lab_main.iml" group="Highest_Card_Lab" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Highest_Card_Lab_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Highest_Card_Lab_test.iml" group="Highest_Card_Lab" />
+    </modules>
+  </component>
+</project>
